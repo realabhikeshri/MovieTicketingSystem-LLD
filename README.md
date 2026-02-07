@@ -1,7 +1,7 @@
 # Movie Ticketing System – LLD 
 
 This project implements a scalable, thread-safe Movie Ticketing System
-designed for Machine Coding and Low-Level Design interviews.
+
 
 ## Features
 - Movie, Theatre, Screen, Show hierarchy
